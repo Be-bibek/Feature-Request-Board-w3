@@ -1,0 +1,6 @@
+{
+  "name": "Feature Request Board",
+  "description": "A premium, Web3-integrated board to submit and upvote feature requests powered by the Stellar network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
