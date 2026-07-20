@@ -2,7 +2,13 @@
 
 A modern, high-fidelity developer-tool-inspired board where users can submit and upvote feature ideas with real-world Web3 integrations. Built with Next.js 15, Tailwind CSS, Framer Motion, and the **Stellar Horizon Testnet**!
 
-![Home Screen]()
+
+***Home Screen***
+
+<img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/a3ac6297-1308-446b-94ce-3efeb8139fa8" /> 
+
+***Home Screen*** mobile view 
+<img width="278" height="489" alt="image" src="https://github.com/user-attachments/assets/2344f384-0b5b-411e-b143-ad8ab8b38a48" />
 
 ---
 
